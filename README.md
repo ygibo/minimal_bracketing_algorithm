@@ -1,7 +1,7 @@
 # minimal_bracketing_algorithm
 An algorithm for finding the minimum bracket of an arithmetic expression.
 
- アルゴリズムの概要
+## アルゴリズムの概要
  
  入力　(1*2)+3<<2+(4&6) のような算術子とビット演算子をもつ式
  
